@@ -1,4 +1,4 @@
-## Firebrick JS Yeoman Generator
+## Firebrick JS Yeoman Generator [![Build Status](https://travis-ci.org/smasala/generator-firebrick.svg)](https://travis-ci.org/smasala/generator-firebrick)
 
 Before getting started, make sure you have following installed:
 
