@@ -8,7 +8,8 @@ node_js:
     - '0.12'
 before_script:
     # install dependencies
-    - npm install -g
+    - npm install
+    - npm install -g grunt-cli
 script:
     # We want to gate on passing tests and a successful build
     - grunt
