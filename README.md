@@ -7,6 +7,7 @@ Before getting started, make sure you have following installed:
 
 ## Running the generator
 
+    npm install -g generator-firebrick
     yo firebrick
     
 ## Contributing
